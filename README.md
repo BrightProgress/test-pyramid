@@ -1,2 +1,2 @@
 # test-pyramid
-Repository with software to simulate and study test-qualify metrics
+Repository with software to simulate and study test-quality metrics
