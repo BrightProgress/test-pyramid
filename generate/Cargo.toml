@@ -1,0 +1,16 @@
+[package]
+name = "test_pyramid"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.10"
+rand = "0.8"
+
+[[bin]]
+name = "gen_metrics"
+path = "src/bin/gen_metrics.rs"
+
+[[bin]]
+name = "plot_metrics"
+path = "src/bin/plot_metrics.rs"
